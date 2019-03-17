@@ -2,4 +2,4 @@
 my first in github
 
 
-machine learning,artificial intalegenec
+machine learning,ai
